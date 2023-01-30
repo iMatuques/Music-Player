@@ -1,4 +1,4 @@
-<h1 align="center"> music Player </h1>
+<h1 align="center"> Music Player </h1>
 
 <br>
 
