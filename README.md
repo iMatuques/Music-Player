@@ -20,7 +20,3 @@ Projeto demonstrando um player de música.
 
 <br>
 
-## 📚 Estudos • Plataformas
-
- - Conceitos básicos de HTML e CSS.
- - Projeto disponível na <a href="https://rocketseat.com.br/">Rocketseat.</a>
